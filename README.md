@@ -1,9 +1,6 @@
 # Web-Applications-Testing
-Web Applications Testing w/ Selenium&amp;JUnit
+Web Browser Automation Testing
 
-
-Hi guys! 
-Here is my work for the web browser automation. 
+Hi! 
+Here are couple of examples for some Web Automation.  
 Language: Java
-Tools:Eclipse, Selenium Web Browser(Java language) , JUnit. 
-Worked on https://www.amazon.com/ , https://www.expedia.com/ and couple of more websites as well. 
