@@ -21,7 +21,7 @@ public class jQueryTest {
 	public void setUp() {
 		driver = new FirefoxDriver();
 		driver.manage().window().maximize();
-		driver.get("file:///Users/ilknurgokcuoglu/Desktop/Coding/Web%20App%20Testing/class3code/xpath.html");
+		driver.get("/Users/example/example1/example2");
 		
 		js = (JavascriptExecutor)driver;
 		try {
